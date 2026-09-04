@@ -9,7 +9,7 @@ output: html_document
 
 Method: regression 
 
-Status: locally revised
+Status: changed on GitHub
 
 ```{r} 
 summary(cars)
