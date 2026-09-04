@@ -1,0 +1,15 @@
+---
+title: "Git Practice Notes"
+author: "Kevin Nguyen"
+date: "2026-09-04"
+output: html_document
+---
+
+# Project information 
+
+Method: regression 
+
+Status: draft
+```{r} 
+summary(cars)
+```
