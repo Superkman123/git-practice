@@ -20,3 +20,5 @@ conflict-resolution, branch, deletion, and restoration exercises.
 3. Review and stage the changes.
 4. Commit with a meaningful message.
 5. Push the commits to GitHub.
+
+ADDED A SENTENCE HERE
