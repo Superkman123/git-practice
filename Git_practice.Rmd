@@ -9,7 +9,8 @@ output: html_document
 
 Method: regression 
 
-Status: draft
+Status: locally revised
+
 ```{r} 
 summary(cars)
 ```
